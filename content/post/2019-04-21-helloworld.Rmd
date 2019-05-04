@@ -7,3 +7,4 @@ tags: []
 categories: []
 ---
 This is my first blogdown writing
+Hugo & Netlify
