@@ -1,3 +1,4 @@
 # myblogg
-create HUGO site with git
-** netlify
+create HUGO site with git   
+** netlify   
+
