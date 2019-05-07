@@ -6,10 +6,19 @@
     <description>Recent content in Posts on kslee5838</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploying Netlify with Rstudio</title>
+      <link>/2019/05/07/deploying-netlify-with-rstudio/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/07/deploying-netlify-with-rstudio/</guid>
+      <description>Netlify 연결을 단계Rstudio 에서 기본 작업HUGO 연결Netlify 에서 할 일Continuous Deply 에 연결config.toml</description>
+    </item>
     
     <item>
       <title>At last</title>
