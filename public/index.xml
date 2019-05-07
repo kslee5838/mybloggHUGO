@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Deploying Netlify with Rstudio</title>
+      <title>Deploying Netlify</title>
       <link>/2019/05/07/deploying-netlify-with-rstudio/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/05/07/deploying-netlify-with-rstudio/</guid>
-      <description>Netlify 연결을 단계Rstudio 에서 기본 작업HUGO 연결Netlify 에서 할 일Continuous Deply 에 연결config.toml</description>
+      <description>Netlify 를 이용한 웹구축Rstudio 에서 기본 작업HUGO 연결Netlify 에서 할 일Continuous Deply
+config.toml 작성</description>
     </item>
     
     <item>

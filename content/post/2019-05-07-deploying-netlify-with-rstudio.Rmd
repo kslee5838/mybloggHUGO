@@ -1,15 +1,15 @@
 ---
-title: Deploying Netlify with Rstudio
+title: Deploying Netlify 
 author: ''
 date: '2019-05-07'
 slug: deploying-netlify-with-rstudio
 categories: []
 tags: []
 ---
-### Netlify 연결을 단계   
+### Netlify 를 이용한 웹구축   
 1. Rstudio 에서 기본 작업 
     + HUGO 연결
     
 2. Netlify 에서 할 일  
-    + Continuous Deply 에 연결
-    + config.toml      
+    + Continuous Deply    
+    + config.toml 작성           
