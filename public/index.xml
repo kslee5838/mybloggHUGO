@@ -6,10 +6,20 @@
     <description>Recent content on kslee5838</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>git command (1)</title>
+      <link>/2019/05/10/git-command-1/</link>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/10/git-command-1/</guid>
+      <description>#You crate Rmarkdown, then#
+$git rm cashed myblogg $git commit -m $git push </description>
+    </item>
     
     <item>
       <title>Echo Generation</title>
