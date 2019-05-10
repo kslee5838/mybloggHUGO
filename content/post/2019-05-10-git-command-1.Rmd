@@ -7,9 +7,11 @@ categories: []
 tags:
   - git
 ---
-#You crate Rmarkdown, then#
+## You create Rmarkdown in **myblogg**, then
 ```
-$git rm cashed myblogg   
-$git commit -m   
-$git push    
+$ git status
+$ git add .
+$ git rm --cached myblogg   
+$ git commit -m "~~~"
+$ git push    
 ```
