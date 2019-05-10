@@ -7,7 +7,8 @@ categories: []
 tags:
   - git
 ---
- You create Rmarkdown on **"myblogg"**, then
+ You create Rmarkdown on Rstudio, suppose title is **"myblogg"**,      
+ then do below for publishing.
 ```
 $ git status
 $ git add .
