@@ -16,4 +16,4 @@ $ git rm --cached myblogg
 $ git commit -m "~~~"
 $ git push    
 ```
-little bit different
+a little bit different
