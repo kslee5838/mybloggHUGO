@@ -19,7 +19,7 @@
       <guid>/2019/05/10/git-command-1/</guid>
       <description>You create Rmarkdown on Rstudio, suppose title is “myblogg”,
 then do below for publishing.
-$ git status$ git add .$ git rm --cached myblogg $ git commit -m &amp;quot;~~~&amp;quot;$ git push </description>
+$ git status$ git add .$ git rm --cached myblogg $ git commit -m &amp;quot;~~~&amp;quot;$ git push  Understanding publishing thru Github instead of Rstudio </description>
     </item>
     
     <item>
