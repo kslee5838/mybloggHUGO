@@ -6,10 +6,19 @@
     <description>Recent content in Posts on kslee5838</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anatomy (1)</title>
+      <link>/2019/05/25/anatomy/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/25/anatomy/</guid>
+      <description>First HeaderSecond HeaderThird Headercarpus, carpi1손목flexor muscle2굽힘근flexor carpi radialis3전완근Content Cell4Content Celltrapezeus5승모근pectoralis major6대원근deltoideus7삼각근groin8사타구니</description>
+    </item>
     
     <item>
       <title>git command (1)</title>
@@ -17,9 +26,9 @@
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/05/10/git-command-1/</guid>
-      <description>You create Rmarkdown on Rstudio, suppose title is “myblogg”,
+      <description>You create Rmarkdown on Rstudio, suppose title is “myblogg”,
 then do below for publishing.
-$ git status$ git add .$ git rm --cached myblogg $ git commit -m &amp;quot;~~~&amp;quot;$ git push  Understanding publishing thru Github instead of Rstudio </description>
+$ git status$ git add .$ git rm --cached myblogg $ git commit -m &amp;quot;~~~&amp;quot;$ git push Edit differenc</description>
     </item>
     
     <item>
