@@ -75,14 +75,43 @@
       
 
 
+<div id="how-to-publish" class="section level3">
+<h3>1. How to publish</h3>
 <p>You create Rmarkdown on Rstudio, suppose title is <strong>“myblogg”</strong>,<br />
 then do below for publishing.</p>
-<pre><code>$ git status
-$ git add .
-$ git rm --cached myblogg   
-$ git commit -m &quot;~~~&quot;
-$ git push    </code></pre>
-<p>a little bit different</p>
+<pre><code>$git status
+$git add .
+$git rm --cached myblogg   
+$git commit -m &quot;~~~&quot;
+$git push    </code></pre>
+</div>
+<div id="some-bites" class="section level3">
+<h3>2.Some bites</h3>
+<pre><code>$git diff HEAD  
+$git log
+$git log --graph
+$git branch
+$git checkout netlify-deploy
+$git checkout master
+$git merge --no-f netlify-deploy
+</code></pre>
+</div>
+<div id="others" class="section level3">
+<h3>3.Others</h3>
+<blockquote>
+<p>$git remote add origin <a href="mailto:kslee5838@github.com" class="email">kslee5838@github.com</a>…..: —–<br />
+$git remote -v
+$git branch -a #로컬repository와 원격repository 내용을 확인할 수 있음</p>
+</blockquote>
+<pre><code> * master  
+ netlify-deploy  
+ remotes/origin/master  
+ remotes/origin/netlify-deployranch -a  
+    </code></pre>
+<p>$git push -u origin master</p>
+<p>$git checkout -b feature-D # switched to new branch<br />
+$git push -u origin feature-D # "</p>
+</div>
 
     </div>
   </article>

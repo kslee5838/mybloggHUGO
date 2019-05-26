@@ -7,14 +7,43 @@ categories: []
 tags:
   - git
 ---
+### 1. How to publish 
  You create Rmarkdown on Rstudio, suppose title is **"myblogg"**,      
  then do below for publishing.
 ```
-$ git status
-$ git add .
-$ git rm --cached myblogg   
-$ git commit -m "~~~"
-$ git push    
+$git status
+$git add .
+$git rm --cached myblogg   
+$git commit -m "~~~"
+$git push    
 ```
-a little bit different
+### 2.Some bites
 
+```
+$git diff HEAD  
+$git log
+$git log --graph
+$git branch
+$git checkout netlify-deploy
+$git checkout master
+$git merge --no-f netlify-deploy
+
+```
+### 3.Others      
+
+> $git remote add origin kslee5838@github.com.....:  -----     
+> $git remote -v 
+$git branch -a    #로컬repository와 원격repository 내용을 확인할 수 있음    
+
+```   
+ * master  
+ netlify-deploy  
+ remotes/origin/master  
+ remotes/origin/netlify-deployranch -a  
+    
+```     
+$git push -u origin master           
+               
+$git checkout -b feature-D   # switched to new branch     
+$git push -u origin feature-D # "                       
+     
