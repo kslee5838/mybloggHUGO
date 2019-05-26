@@ -16,4 +16,8 @@ $ git rm --cached myblogg
 $ git commit -m "~~~"
 $ git push    
 ```
+<<<<<<< HEAD
 Edit differenc
+=======
+a little bit different
+>>>>>>> 345a11f4f8310412423ac9cef0b47b62c112d788
