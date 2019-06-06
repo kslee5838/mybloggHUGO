@@ -17,7 +17,7 @@ $git rm --cached myblogg
 $git commit -m "~~~"
 $git push    
 ```
-### 2.Some bites
+### 2.Snippets
 
 ```
 $git diff HEAD  
@@ -31,9 +31,9 @@ $git merge --no-f netlify-deploy
 ```
 ### 3.Others      
 
-> $git remote add origin kslee5838@github.com.....:  -----     
-> $git remote -v 
-$git branch -a    #로컬repository와 원격repository 내용을 확인할 수 있음    
+$git remote add origin kslee5838@github.com.....:  -----      
+$git remote -v       
+$git branch -a    #로컬repository와 원격repository 내용을 확인할 수 있음     
 
 ```   
  * master  
@@ -47,3 +47,11 @@ $git push -u origin master
 $git checkout -b feature-D   # switched to new branch     
 $git push -u origin feature-D # "                       
      
+### 4.만들면서 배우는 Git "한빛미디어"  p 54   
+ + 저장소에 ㅇㅇ 브랜치 추가, $git branch ㅇㅇ 
+ + 작업중인 브랜치 변경,      $git checkout ㅇㅇ  
+ + 브랜치 병합하기,           $git merge ㅇㅇ   
+ 
+### 5. pull 문제 해결   
+git fetch --all
+git pull  

@@ -28,8 +28,9 @@
       <guid>/2019/05/10/git-command-1/</guid>
       <description>1. How to publishYou create Rmarkdown on Rstudio, suppose title is “myblogg”,
 then do below for publishing.
-$git status$git add .$git rm --cached myblogg $git commit -m &amp;quot;~~~&amp;quot;$git push 2.Some bites$git diff HEAD $git log$git log --graph$git branch$git checkout netlify-deploy$git checkout master$git merge --no-f netlify-deploy3.Others$git remote add origin kslee5838@github.com…..: —–
-$git remote -v$git branch -a #로컬repository와 원격repository 내용을 확인할 수 있음</description>
+$git status$git add .$git rm --cached myblogg $git commit -m &amp;quot;~~~&amp;quot;$git push 2.Snippets$git diff HEAD $git log$git log --graph$git branch$git checkout netlify-deploy$git checkout master$git merge --no-f netlify-deploy3.Others$git remote add origin kslee5838@github.com…..: —–
+$git remote -v
+$git branch -a #로컬repository와 원격repository 내용을 확인할 수 있음</description>
     </item>
     
     <item>
